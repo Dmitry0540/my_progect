@@ -9,5 +9,5 @@ print(2*2+2==  2*(2+2))
 
 #4st program
 x= (float('123.456'))
-print(float(x))
+
 print( int((x - int(x)) * 10))
