@@ -8,5 +8,6 @@ print(9.99>9.98 and 1000!=1000.1)
 print(2*2+2==  2*(2+2))
 
 #4st program
-x=(123.456)
-print(int((x - int(x)) * 10))
+x= (float('123.456'))
+print(float(x))
+print( int((x - int(x)) * 10))
